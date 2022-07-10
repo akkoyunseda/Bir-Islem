@@ -1,0 +1,39 @@
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Monster\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Monster\source\repos\bir-işlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\akkoy\Desktop\bir-iƒlem-oyunu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\Birİşlem\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
